@@ -21,10 +21,14 @@ button{
     background: darkblue;
     color: white;
     border-radius: 50%;
+    font-size: 25px;
+    margin: 0 auto;
 }
 
 .special{
-    display: inline-block;
-    width: 20%;
+    display: inline-flex;
     border: 1px solid black;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 20px;
 }
